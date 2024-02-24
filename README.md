@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a replica of reddit website as a project at college
-- 🌱 I’m currently learning devOps (still lost but working on it :D)
+- 🌱 I’m currently learning devOps (still lost but working on it 😃)
 
 <!--
 **Amira764/Amira764** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
