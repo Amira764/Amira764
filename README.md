@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on refactoring RSpec files 
+- 🔭 I’m currently working on refactoring RSpec files and you can find my work user [here](https://github.com/AmiraAbdelghany)
 - 🌱 I’m currently learning Ruby on Rails (still lost but working on it 😃)
 
 <!--
