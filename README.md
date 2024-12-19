@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on refactoring RSpec files and you can find my work user [here](https://github.com/AmiraAbdelghany)
-- 🌱 I’m currently learning Ruby on Rails (still lost but working on it 😃)
+- 🔭 You can find my work user [here](https://github.com/AmiraAbdelghany)
 
 <!--
 **Amira764/Amira764** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
