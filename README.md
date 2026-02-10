@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-- 🔭 You can find my work user with Procore Technologies [here](https://github.com/AmiraAbdelghany)
-- 🌱 Checkout Spreaddit [here](https://github.com/Spreaddit)
-
 <!--
 **Amira764/Amira764** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+- 🔭 You can find my work user with Procore Technologies [here](https://github.com/AmiraAbdelghany)
+- 🌱 Checkout Spreaddit [here](https://github.com/Spreaddit)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
